@@ -22,5 +22,7 @@ Selecting all the content of a file: ggvG
 Go to a new line and start typing in insert mode: o
 
 Undo: u
+Redo: <Ctrl>r
 
+Going to the left tab bar: <Ctrl>0
 
