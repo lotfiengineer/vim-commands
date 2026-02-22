@@ -15,6 +15,9 @@ select everything within paranthesis: v%
 
 Delete till a specific word: d/<the text><enter>
 
+Shift + 8 (*): Search forward for the current word under the cursor.
+Shift + 3 (#): Search backward for the current word under the cursor.
+
 
 Deleting all the content of a file: ggdG
 Selecting all the content of a file: ggvG
