@@ -37,7 +37,9 @@ Go to a new line and start typing in insert mode: o
 <br />
 ```diw```: Deletes (cut) the whole word under the cursor
 <br />
-```daw```: Deletes the entire word, including spaces around it.
+
+
+```viw```: Select the word under the cursor
 
 
 Undo: u
