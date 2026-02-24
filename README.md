@@ -45,12 +45,31 @@ Go to a new line and start typing in insert mode: o
 
 Really good command for not using the mouse to see the content of a file:
 ```H``` - move to top of screen
+<br />
 ```M``` - move to middle of screen
+<br />
 ```L``` - move to bottom of screen
 
 
-Undo: u
-Redo: <Ctrl>r
+Really cool combo  commands (last one is my favorite):
+```vi{```: Select everything inside {} (without the braces).
+<br />
+```vi(```: Select everything inside () (without the parentheses).
+<br />
+```va{```: Select everything inside {} (including the braces).
+<br />
+```va(```: Select everything inside () (including the parentheses).
+<br />
+```vi{dbo```: Select everything inside {}, delete it, go to the previous word, and open a new line to type.
+<br />
+My way to memorize it:
+vi{ -> select (v) inside (i) the brace ( { )
+va{ -> select (v) all (a) and the brace ( { )
 
-Going to the left tab bar: <Ctrl>0
+
+Undo: u
+<br />
+Redo: (Ctrl)r
+
+Going to the explorer bar: (Ctrl)0
 
