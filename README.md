@@ -40,6 +40,13 @@ Go to a new line and start typing in insert mode: o
 
 
 ```viw```: Select the word under the cursor
+<br />
+```vii```: ...
+
+Really good command for not using the mouse to see the content of a file:
+```H``` - move to top of screen
+```M``` - move to middle of screen
+```L``` - move to bottom of screen
 
 
 Undo: u
