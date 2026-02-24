@@ -43,7 +43,7 @@ Go to a new line and start typing in insert mode: o
 <br />
 ```vii```: ...
 
-Really good command for not using the mouse to see the content of a file:
+Really good command for not using the mouse to see the content of a file: <br />
 ```H``` - move to top of screen
 <br />
 ```M``` - move to middle of screen
@@ -51,7 +51,7 @@ Really good command for not using the mouse to see the content of a file:
 ```L``` - move to bottom of screen
 
 
-Really cool combo  commands (last one is my favorite):
+Really cool combo  commands (last one is my favorite): <br />
 ```vi{```: Select everything inside {} (without the braces).
 <br />
 ```vi(```: Select everything inside () (without the parentheses).
@@ -62,7 +62,7 @@ Really cool combo  commands (last one is my favorite):
 <br />
 ```vi{dbo```: Select everything inside {}, delete it, go to the previous word, and open a new line to type.
 <br />
-My way to memorize it:
+My way to memorize it: <br />
 vi{ -> select (v) inside (i) the brace ( { )
 va{ -> select (v) all (a) and the brace ( { )
 
