@@ -62,9 +62,13 @@ Really cool combo  commands (last one is my favorite): <br />
 <br />
 ```vi{dbo```: Select everything inside {}, delete it, go to the previous word, and open a new line to type.
 <br />
+
 My way to memorize it: <br />
-vi{ -> select (v) inside (i) the brace ( { )
-va{ -> select (v) all (a) and the brace ( { )
+```vi{``` -> select (v) inside (i) the brace ( { )
+```va{``` -> select (v) all (a) and the brace ( { )
+
+```S``` -> clear current line then go to insert mode
+```D``` -> delete to end of line
 
 
 Undo: u
