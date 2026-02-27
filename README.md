@@ -66,10 +66,12 @@ Really cool combo  commands (last one is my favorite): <br />
 My way to memorize it: <br />
 ```vi{``` -> select (v) inside (i) the brace ( { )
 ```va{``` -> select (v) all (a) and the brace ( { )
+<br />
 
 ```S``` -> clear current line then go to insert mode
+<br />
 ```D``` -> delete to end of line
-
+<br />
 
 Undo: u
 <br />
