@@ -65,6 +65,7 @@ Really cool combo  commands (last one is my favorite): <br />
 
 My way to memorize it: <br />
 ```vi{``` -> select (v) inside (i) the brace ( { )
+<br />
 ```va{``` -> select (v) all (a) and the brace ( { )
 <br />
 
